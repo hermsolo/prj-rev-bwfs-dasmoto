@@ -1,0 +1,43 @@
+/* Background Image for the Top */
+#top {
+	background-image: url("../pattern.jpeg");
+}
+
+/* Main Banner */
+.main-banner {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+/* Products Section */
+.products {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+/* Brushes Section */
+.brushes-banner {
+	background-color: mediumspringgreen;
+}
+
+/* Frames Section */
+.frames-banner {
+	background-color: lightcoral;
+}
+
+/* Paint Section */
+.paint-banner {
+	background-color: skyblue;
+}
+
+/* Prices for the products */
+.price {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
